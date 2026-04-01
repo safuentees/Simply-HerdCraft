@@ -1,0 +1,6 @@
+*.mrpack
+.gradle/
+build/
+
+# Allow custom-built JARs (Sodium dev + patched Lithium)
+!mods/*.jar

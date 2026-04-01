@@ -1,0 +1,13 @@
+name = "Simply HerdCraft"
+author = "robotkoer"
+version = "13.1.0-april-fools.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5b93f48c9bd931b6d199f5dfb3fc1197ccf6ed44cc3a4e8415fa7dd5feb1d8fd"
+
+[versions]
+fabric = "0.18.6"
+minecraft = "26w14a"
